@@ -1,0 +1,6 @@
+extends: existence
+message: "Possible future tense 🚀."
+ignorecase: true
+level: error
+tokens:
+  - will
