@@ -1,3 +1,0 @@
-hackathon
-linter
-linters

@@ -1,5 +1,0 @@
-extends: spelling
-message: "Did you really mean '%s'?"
-level: error
-ignore: vale-styles/ttd/tech/vocab.txt
-# TODO: Should this be relative?
