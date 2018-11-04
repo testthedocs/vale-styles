@@ -1,4 +1,4 @@
 extends: spelling
 message: "Did you really mean '%s'?"
 level: error
-ignore: /tech-terms/security.txt
+ignore: TTD/tech-terms/security.txt

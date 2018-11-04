@@ -1,3 +1,5 @@
-hackathon
 kubernetes
 docker
+rkt
+mesos
+coreos
