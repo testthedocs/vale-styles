@@ -3,9 +3,9 @@ message: "Did you really mean '%s'?"
 level: error
 custom: true
 ignore:
-  - TTD/tech-terms/security.txt
-  - TTD/tech-terms/blockchain.txt
-  - TTD/tech-terms/devops.txt
-  - TTD/tech-terms/general.txt
-  - TTD/tech-terms/techwriting.txt
-  - TTD/tech-terms/mobile.txt
+  - ttd/tech-terms/security.txt
+  - ttd/tech-terms/blockchain.txt
+  - ttd/tech-terms/devops.txt
+  - ttd/tech-terms/general.txt
+  - ttd/tech-terms/techwriting.txt
+  - ttd/tech-terms/mobile.txt
