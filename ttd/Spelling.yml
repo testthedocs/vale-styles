@@ -1,0 +1,10 @@
+extends: spelling
+message: "Did you really mean '%s'?"
+level: error
+custom: true
+ignore:
+  - TTD/tech-terms/security.txt
+  - TTD/tech-terms/blockchain.txt
+  - TTD/tech-terms/devops.txt
+  - TTD/tech-terms/general.txt
+  - TTD/tech-terms/techwriting.txt
