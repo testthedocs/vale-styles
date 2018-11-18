@@ -1,1 +1,9 @@
 hackathon
+ESLint
+GitHub
+GraphQL
+JavaScript
+jQuery
+api
+css
+html
