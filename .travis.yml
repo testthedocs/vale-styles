@@ -9,4 +9,3 @@ install:
 
 script:
   - make yamllint
-
