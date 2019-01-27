@@ -40,6 +40,6 @@ pushd "$PROJECT_DIR"
 # eat-up any non-zero exit codes :-( Instead we find the files first and then
 # xargs yamllint on the found files.
 echo -en "$COL_YELLOW Running yamllint against files ...$COL_RESET\n"
-find . -path "./venv" -prune -or -name '*.yml' -print0 | xargs -0 -n1 yamllint "${YAMLLINT_ARGS[@]}"
+find . -path "~/virtualenv" -prune -or -name '*.yml' -print0 | xargs -0 -n1 yamllint "${YAMLLINT_ARGS[@]}"
 popd
 
