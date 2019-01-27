@@ -1,3 +1,4 @@
+---
 extends: conditional
 message: "'%s' has no definition"
 level: warning

@@ -1,3 +1,4 @@
+---
 extends: existence
 message: "'%s' - See section 'Unnecessary words'"
 level: warning

@@ -1,3 +1,4 @@
+---
 extends: existence
 message: "Remove parentheses from '%s'"
 description: "When talking about a method in prose, DO NOT include the parentheses."

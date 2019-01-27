@@ -1,3 +1,4 @@
+---
 extends: existence
 message: "'%s' - See section 'Horrible words'"
 description: "Be aware that the use of '%s' may have an emetic effect on some of your readers."

@@ -1,3 +1,4 @@
+---
 extends: substitution
 message: Use %s instead of “%s”
 link: https://docs.openstack.org/contributor-guide/writing-style/general-writing-guidelines.html#write-positively

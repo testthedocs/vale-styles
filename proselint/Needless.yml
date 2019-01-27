@@ -1,3 +1,4 @@
+---
 extends: substitution
 message: Prefer '%s' over '%s'
 ignorecase: true
@@ -150,7 +151,6 @@ swap:
   exigence: exigency
   exotism: exoticism
   expedience: expediency
-  expediential: expedient
   expediential: expedient
   extensible: extendable
   eying: eyeing
@@ -341,7 +341,6 @@ swap:
   thenceforward: thenceforth
   transiency: transience
   transposal: transposition
-  transposal: transposition
   unfrequent: infrequent
   unreasonability: unreasonableness
   unrevokable: irrevocable
@@ -356,4 +355,3 @@ swap:
   wolverene: wolverine
   wolvish: wolfish
   Zoroastrism: Zoroastrianism
-

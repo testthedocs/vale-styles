@@ -1,3 +1,4 @@
+---
 extends: readability
 message: "Grade level (%s) too high!"
 level: warning

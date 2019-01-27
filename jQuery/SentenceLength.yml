@@ -1,3 +1,4 @@
+---
 extends: occurrence
 message: 'Keep sentences short and to the point'
 link: 'https://contribute.jquery.org/style-guide/prose/#article-amp-sentence-structure'

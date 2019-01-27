@@ -1,6 +1,7 @@
+---
 extends: existence
 message: "Avoid using '%s'"
-description: "The use of '%s' indicates that you\'re only looking for male developers."
+description: "The use of '%s' indicates that you are only looking for male developers."
 ignorecase: true
 level: error
 tokens:

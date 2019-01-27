@@ -3,7 +3,8 @@
 # Streisand yamllint wrapper (https://raw.githubusercontent.com/leftxs/streisand/master/tests/yamlcheck.sh)
 #
 # This test script finds all of the *.yml files in the project tree and
-# runs yamllint against them. Ignore any `venv` directory.
+# runs yamllint against them.
+# Ignore any `venv` directory.
 #
 
 # Fail on errors
@@ -25,7 +26,7 @@ fi
 
 # Determine the absolute path of this script file's directory
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd -P)"
-# The main project directory is one up from this script's directory, tests/
+# The main project directory is one up from this script's directory, _tests/
 PROJECT_DIR="$SCRIPT_DIR/.."
 
 # Custom yamllint config to adjust what rules are applied
@@ -39,7 +40,6 @@ pushd "$PROJECT_DIR"
 # eat-up any non-zero exit codes :-( Instead we find the files first and then
 # xargs yamllint on the found files.
 echo -en "$COL_YELLOW Running yamllint against files ...$COL_RESET\n"
-#find . -path "./venv" -prune -or -name '*.yml' -print0 | xargs -0 -n1 yamllint "${YAMLLINT_ARGS[@]}"
-find . -name '*.yml' -print0 | xargs -0 -n1 yamllint "${YAMLLINT_ARGS[@]}"
+find . -path "./venv" -prune -or -name '*.yml' -print0 | xargs -0 -n1 yamllint "${YAMLLINT_ARGS[@]}"
 popd
 

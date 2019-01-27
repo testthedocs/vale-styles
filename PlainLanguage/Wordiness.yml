@@ -1,3 +1,4 @@
+---
 extends: substitution
 message: Consider using '%s' instead of '%s'
 ignorecase: true
@@ -29,7 +30,6 @@ swap:
   as per: per
   at a later date: later
   at all times: always
-  at the present time: now
   at the present time: now
   at this point in time: at this point
   based in large part on: based on

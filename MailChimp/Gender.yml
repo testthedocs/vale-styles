@@ -1,3 +1,4 @@
+---
 extends: existence
 message: 'You may use “%s” as a modifier but never as a noun.'
 link: http://styleguide.mailchimp.com/writing-about-people/#header-3-gender-and-sexuality
