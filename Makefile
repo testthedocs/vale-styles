@@ -28,5 +28,5 @@ yamllint: ## Run linter against all yaml files
 .PHONY: linkcheck
 linkcheck: ## Run linkcheck
 	@echo ""
-	@echo "$(YELLOW)==> Linting yaml files ...$(RESET)"
+	@echo "$(YELLOW)==> Checking links ...$(RESET)"
 	@docker run -v `pwd`:/srv/test testthedocs/ttd-linkcheck
