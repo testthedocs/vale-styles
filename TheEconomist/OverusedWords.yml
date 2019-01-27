@@ -1,3 +1,4 @@
+---
 extends: existence
 message: "'%s' is overused"
 description: "Nothing betrays the lazy writer faster than fly-blown phrases used in the belief that they are snappy, trendy or cool."

@@ -1,3 +1,4 @@
+---
 extends: existence
 message: 'No Oxford commas!'
 link: 'https://github.com/Homebrew/brew/blob/master/docs/Prose-Style-Guidelines.md#typographical-conventions'

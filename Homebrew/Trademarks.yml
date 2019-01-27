@@ -1,3 +1,4 @@
+---
 extends: existence
 message: 'No "TM", ™, SM, ©, ®, or other explicit indicators of rights ownership or trademarks'
 link: 'https://github.com/Homebrew/brew/blob/master/docs/Prose-Style-Guidelines.md#typographical-conventions'

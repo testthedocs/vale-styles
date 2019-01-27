@@ -1,3 +1,4 @@
+---
 extends: substitution
 message: Use '%s' instead of '%s.'
 level: error
@@ -37,4 +38,3 @@ swap:
   cannot: can't
   could not: couldn't
   should not: shouldn't
-  could not: couldn't

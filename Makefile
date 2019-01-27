@@ -22,4 +22,5 @@ help: ## This help message
 .PHONY: yamllint
 yamllint: ## Run linter against all yaml files
 	@echo ""
-	@./tests/yamlcheck.sh
+	@echo "$(YELLOW)==> Linting yaml files ...$(RESET)"
+	@./_tests/yamlcheck.sh
