@@ -1,5 +1,7 @@
 # TestTheDocs Vale Styles
 
+[![Build Status](https://travis-ci.org/testthedocs/vale-styles.svg?branch=master)](https://travis-ci.org/testthedocs/vale-styles)
+
 This repository contains pre-written checks for Vale based on popular style guides.
 
 We took them from those created in the [Vale project](https://github.com/errata-ai/vale/) that are in the process of being removed,
