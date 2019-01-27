@@ -1,3 +1,4 @@
+---
 extends: existence
 message: "Capitalize the first word in a list."
 link: https://contribute.jquery.org/style-guide/prose/#article-amp-sentence-structure
