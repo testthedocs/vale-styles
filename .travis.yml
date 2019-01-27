@@ -1,10 +1,9 @@
 ---
 dist: xenial
 language: python
-python: 3.7
 
 before_install:
-  - sudo apt install yamllint
+  - sudo apt install python3 python3-yaml yamllint
 
 script:
   - make yamllint
