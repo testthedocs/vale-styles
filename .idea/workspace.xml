@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df32413d-61f7-4f7a-a0e7-9de0d4ac9a19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vale-styles.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/Abbreviations.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/Annotations.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/Branding.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/DevEnv.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/Localization.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/OxfordComma.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/Pronouns.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/SentenceLength.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForgeRock/Spacing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ForgeRock/Localization.yml" afterPath="$PROJECT_DIR$/ForgeRock/Localization.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +23,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Didactic.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Didactic.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TheEconomist/Didactic.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Localization.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ForgeRock/Localization.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -80,6 +78,7 @@
       <list>
         <option value="$PROJECT_DIR$/write-good/TooWordy.yml" />
         <option value="$PROJECT_DIR$/write-good/Weasel.yml" />
+        <option value="$PROJECT_DIR$/ForgeRock/Localization.yml" />
       </list>
     </option>
   </component>
@@ -113,6 +112,11 @@
             <path>
               <item name="vale-styles" type="b2602c69:ProjectViewProjectNode" />
               <item name="vale-styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vale-styles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vale-styles" type="462c0819:PsiDirectoryNode" />
+              <item name="ForgeRock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vale-styles" type="b2602c69:ProjectViewProjectNode" />
@@ -279,6 +283,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="171" y="139" width="1586" height="941" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -293,7 +298,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25324675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25324675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -357,6 +362,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForgeRock/Localization.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
         </state>
       </provider>
