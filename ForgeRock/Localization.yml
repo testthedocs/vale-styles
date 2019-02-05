@@ -1,3 +1,4 @@
+---
 extends: existence
 message: Avoid latinisms, colloquialisms that are difficult to localize
 link: 'Microsoft Manual of Style, 4th Edition, "Latin and other non-English Words'
