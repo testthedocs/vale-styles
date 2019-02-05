@@ -1,0 +1,29 @@
+extends: existence
+message: "'%s' is archaic."
+ignorecase: true
+level: error
+tokens:
+  - access
+  - check
+  - clear
+  - close
+  - copy
+  - control
+  - customize
+  - cut
+  - drag
+  - drop
+  - find
+  - format
+  - move
+  - open
+  - paste
+  - press
+  - program
+  - release
+  - run
+  - select
+  - size
+  - start
+  - supply
+  - support
