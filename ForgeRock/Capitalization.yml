@@ -1,0 +1,7 @@
+extends: substitution
+message: Use '%s' instead of '%s'
+level: error
+swap:
+  Access Token: access token
+  Bearer Token: bearer token
+  Refresh Token: refresh token
