@@ -1,3 +1,4 @@
+---
 extends: existence
 message: 'Avoid using “%s.”'
 link: http://styleguide.mailchimp.com/word-list/#header-2-words-to-avoid

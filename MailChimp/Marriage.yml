@@ -1,3 +1,4 @@
+---
 extends: existence
 message: 'Avoid “%s.”'
 link: http://styleguide.mailchimp.com/writing-about-people/#header-3-gender-and-sexuality

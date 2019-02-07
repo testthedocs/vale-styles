@@ -1,3 +1,4 @@
+---
 message: Generally, do not contract the words such as “%s”.
 link: https://docs.openstack.org/contributor-guide/writing-style/general-writing-guidelines.html#do-not-use-contractions
 extends: existence

@@ -1,3 +1,4 @@
+---
 extends: existence
 message: 'Avoid using "%s"'
 link: https://contribute.jquery.org/style-guide/prose/#spelling

@@ -1,0 +1,8 @@
+---
+dist: xenial
+
+before_install:
+  - sudo apt-get install yamllint
+
+script:
+  - make yamllint

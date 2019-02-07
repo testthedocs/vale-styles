@@ -1,1 +1,1 @@
-Based on [The Economist](http://www.economist.com/styleguide/introduction).
+Based on [The Economist](https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf).

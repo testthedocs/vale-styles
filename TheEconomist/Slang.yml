@@ -1,3 +1,4 @@
+---
 extends: existence
 message: "'%s' - See section 'Journalese and slang'"
 scope: text

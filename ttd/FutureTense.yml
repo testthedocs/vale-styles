@@ -1,3 +1,4 @@
+---
 extends: existence
 message: "Possible future tense 🚀."
 ignorecase: true
