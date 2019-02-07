@@ -1,5 +1,5 @@
 hackathon
-ESLint
+esint
 GitHub
 GraphQL
 JavaScript
@@ -7,3 +7,6 @@ jQuery
 api
 css
 html
+sdk
+vcs
+git

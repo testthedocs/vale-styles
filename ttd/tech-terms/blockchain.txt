@@ -6,3 +6,11 @@ ipfs
 infura
 dapp
 validator
+abi
+geth
+aleth
+mainnet
+testnet
+rinkeby
+metamask
+crowdsale
