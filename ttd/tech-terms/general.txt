@@ -10,3 +10,4 @@ html
 sdk
 vcs
 git
+npm

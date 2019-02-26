@@ -3,3 +3,4 @@ linters
 documentarian
 markdown
 onboarding
+readme

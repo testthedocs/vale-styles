@@ -14,3 +14,10 @@ testnet
 rinkeby
 metamask
 crowdsale
+merkle
+trie
+ommer
+evm
+sidechain
+sidechains
+web3
