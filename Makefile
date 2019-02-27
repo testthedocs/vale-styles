@@ -30,3 +30,9 @@ linkcheck: ## Run linkcheck
 	@echo ""
 	@echo "$(YELLOW)==> Checking links ...$(RESET)"
 	@docker run -v `pwd`:/srv/test testthedocs/ttd-linkcheck
+
+.PHONY: check-changelog
+check-changelog: ## Check that the Changelog is up2date
+	@echo ""
+	@echo "$(YELLOW)==> Validate Changelog ...$(RESET)"
+	@.ci/check_changelog.sh
