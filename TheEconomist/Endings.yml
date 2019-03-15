@@ -1,7 +1,6 @@
 ---
 extends: existence
 message: "avoid using '%s'"
-link: http://www.economist.com/styleguide/w
 scope: text
 level: error
 ignorecase: true

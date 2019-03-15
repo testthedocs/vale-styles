@@ -11,3 +11,7 @@ sdk
 vcs
 git
 npm
+ttd
+TestTheDocs
+vale
+Vale
