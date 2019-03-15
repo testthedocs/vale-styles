@@ -1,5 +1,10 @@
 # Changelog
 
+## 15-03-2019
+
+- Update ttd (TestTheDocs) styles [svx]
+- Remove broken links [svx]
+
 ## 27-02-2019
 
 - Add CockroachDB styles [svx]
