@@ -5,6 +5,7 @@
 - Update ttd (TestTheDocs) styles [svx]
 - Remove broken links [svx]
 - Move yamllint and its config into .ci [svx]
+- Add some new ttd styles [svx]
 
 ## 27-02-2019
 
