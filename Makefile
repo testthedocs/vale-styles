@@ -23,7 +23,7 @@ help: ## This help message
 yamllint: ## Run linter against all yaml files
 	@echo ""
 	@echo "$(YELLOW)==> Linting yaml files ...$(RESET)"
-	@./_tests/yamlcheck.sh
+	@./.ci/yamlcheck.sh
 
 .PHONY: linkcheck
 linkcheck: ## Run linkcheck
