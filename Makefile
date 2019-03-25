@@ -23,10 +23,16 @@ help: ## This help message
 yamllint: ## Run linter against all yaml files
 	@echo ""
 	@echo "$(YELLOW)==> Linting yaml files ...$(RESET)"
-	@./_tests/yamlcheck.sh
+	@./.ci/yamlcheck.sh
 
 .PHONY: linkcheck
 linkcheck: ## Run linkcheck
 	@echo ""
 	@echo "$(YELLOW)==> Checking links ...$(RESET)"
 	@docker run -v `pwd`:/srv/test testthedocs/ttd-linkcheck
+
+.PHONY: check-changelog
+check-changelog: ## Check that the Changelog is up2date
+	@echo ""
+	@echo "$(YELLOW)==> Validate Changelog ...$(RESET)"
+	@.ci/check_changelog.sh

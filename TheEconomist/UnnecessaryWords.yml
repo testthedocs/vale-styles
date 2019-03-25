@@ -4,7 +4,6 @@ message: "'%s' - See section 'Unnecessary words'"
 level: warning
 scope: text
 description: Some words add nothing but length to your prose.
-link: http://www.economist.com/style-guide/unnecessary-words
 ignorecase: true
 tokens:
   - any time soon

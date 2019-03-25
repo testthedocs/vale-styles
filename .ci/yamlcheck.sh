@@ -26,7 +26,7 @@ fi
 
 # Determine the absolute path of this script file's directory
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd -P)"
-# The main project directory is one up from this script's directory, _tests/
+# The main project directory is one up from this script's directory, .ci/
 PROJECT_DIR="$SCRIPT_DIR/.."
 
 # Custom yamllint config to adjust what rules are applied

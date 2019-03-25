@@ -5,4 +5,5 @@ before_install:
   - sudo apt-get install yamllint
 
 script:
+  - make check-changelog
   - make yamllint
