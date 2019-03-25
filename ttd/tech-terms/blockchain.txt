@@ -21,3 +21,7 @@ evm
 sidechain
 sidechains
 web3
+reentrancy
+reentrant
+cryptocurrency
+eip
