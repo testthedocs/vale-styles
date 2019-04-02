@@ -1,7 +1,5 @@
 # TestTheDocs Vale Styles
 
-[![Build Status](https://travis-ci.org/testthedocs/vale-styles.svg?branch=master)](https://travis-ci.org/testthedocs/vale-styles)
-
 This repository contains pre-written checks for [Vale](https://github.com/errata-ai/vale/) based on popular style guides.
 
 ## Dependencies
@@ -30,6 +28,7 @@ Anything tagged with [enhancement](https://github.com/testthedocs/vale-styles/is
 #### Make Sure Tests Pass
 
 We use [yamllint](https://yamllint.readthedocs.io/en/stable/) to make sure all checks are written in valid `yaml`.
+
 **Please** make sure that your checks are passing, before you open a PR!
 
 #### Pull Requests
