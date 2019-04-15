@@ -1,5 +1,11 @@
 # Changelog
 
+## 15-04- 2019
+
+- Update README [svx]
+- Fix #23 [svx]
+- Fix #26 [svx]
+
 ## 02-04-2019
 
 - Sexualized language is now an error-level rule (was warning)

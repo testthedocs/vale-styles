@@ -1,6 +1,6 @@
 # TestTheDocs Vale Styles
 
-This repository contains pre-written checks for [Vale](https://github.com/errata-ai/vale/) based on popular style guides.
+This repository contains pre-written checks for [Vale](https://github.com/errata-ai/vale/).
 
 ## Dependencies
 
