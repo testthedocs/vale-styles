@@ -1,4 +1,5 @@
 kubernetes
+kubectl
 docker
 rkt
 mesos

@@ -5,6 +5,7 @@ solidity
 ipfs
 infura
 dapp
+dapps
 validator
 abi
 geth
