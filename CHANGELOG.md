@@ -1,8 +1,19 @@
 # Changelog
 
+## 15-04- 2019
+
+- Update README [svx]
+- Fix #23 [svx]
+- Fix #26 [svx]
+
+## 02-04-2019
+
+- Sexualized language is now an error-level rule (was warning)
+- Update README [svx]
+
 ## 25-03-2019
 
--   We have a changelong :)
+-   We have a changelog :)
 -   Added Java terms to spelling exceptions
 -   Added more check to WIP future tense check
 
