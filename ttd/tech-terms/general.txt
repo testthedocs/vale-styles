@@ -14,4 +14,4 @@ npm
 ttd
 TestTheDocs
 vale
-Vale
+dns

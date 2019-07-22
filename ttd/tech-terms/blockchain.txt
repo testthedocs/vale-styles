@@ -5,6 +5,7 @@ solidity
 ipfs
 infura
 dapp
+dapps
 validator
 abi
 geth
@@ -25,3 +26,6 @@ reentrancy
 reentrant
 cryptocurrency
 eip
+web3j
+solc
+keccak
