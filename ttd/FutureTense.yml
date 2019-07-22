@@ -2,11 +2,8 @@
 extends: existence
 message: "Possible future tense 🚀."
 ignorecase: true
-level: error
+level: warning
 tokens:
   - will
-  - we'll
-  - you'll
-  - it'll
+  - '[\w][ll]'
   - we are going
-  # TODO: regex?
