@@ -1,5 +1,10 @@
 # Changelog
 
+## 18-12-2019
+
+- Homebrew: Title Case H1s and sentence case all other heading levels.
+- Homebrew: Apply substitution "Terms" lint to paragraphs only, not headings.
+
 ## 15-04- 2019
 
 - Update README [svx]
