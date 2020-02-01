@@ -1,5 +1,9 @@
 # Changelog
 
+## 01-02-2020
+
+- Moving styles into new repos to allow better  distribution amongst Vale tooling.
+
 ## 18-12-2019
 
 - Homebrew: Title Case H1s and sentence case all other heading levels.
