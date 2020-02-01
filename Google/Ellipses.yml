@@ -1,7 +1,0 @@
----
-extends: existence
-ignorecase: true
-level: warning
-message: "In general, don't use ellipses."
-tokens:
-  - ...
