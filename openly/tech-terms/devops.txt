@@ -1,9 +1,0 @@
-kubernetes
-kubectl
-docker
-rkt
-mesos
-coreos
-AppVeyor
-openstack
-serverless
